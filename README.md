@@ -8,7 +8,7 @@
 
 • :boy::computer: Olá, eu sou <strong>Victor Paranhos</strong>!  </br>
 • 🎓 Graduado em Análise e Desenvolvimento de Sistemas. </br>
-• :briefcase: Atualmente trabalho como Desenvolvedor jr. <br><br>
+• :briefcase: Atualmente trabalho como Desenvolvedor FrontEnd. <br><br>
 
 **🚀 Accesse meu [Portfolio](https://victorparanhos.vercel.app/)**
 
